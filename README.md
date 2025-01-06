@@ -1,7 +1,7 @@
 <h1 align="center">Hellouu, I'm Emine Betül Argın</h1>
 <h3 align="center">A student from Germany who's passionate about IT</h3>
 
-- 🔭 I’m currently working on **my portfolio page**
+- 🔭 I’m currently working on **my portfolio page, leetcode's Grind 75**
 
 - 🌱 I’m currently learning **SAP 4HANA, Harward CS50**
 
